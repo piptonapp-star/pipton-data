@@ -1,4 +1,6 @@
 {
   "WELCOME": { "type": "coins", "amount": 500 },
-  "PIPTON2026": { "type": "coins", "amount": 2000 }
+  "STARDUST": { "type": "coins", "amount": 1000 },
+  "PIPTON2026": { "type": "coins", "amount": 2000 },
+  "MADEMYNIGHT": { "type": "unlock_pipton", "piptonId": 3 }
 }
