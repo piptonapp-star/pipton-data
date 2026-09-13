@@ -1,1 +1,4 @@
-
+{
+  "WELCOME": { "type": "coins", "amount": 500 },
+  "PIPTON2026": { "type": "coins", "amount": 2000 }
+}
